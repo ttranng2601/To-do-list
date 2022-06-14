@@ -1,0 +1,25 @@
+body {
+	background-color: #F1EFF6;
+	cursor: pointer;
+}
+
+li {
+	list-style: none;
+}
+
+#del {
+	display: inline-block;
+	margin: 0.5rem;
+	padding: 0.4rem;
+	color: white;
+	vertical-align: middle;
+}
+
+p {
+	display: inline-block;
+}
+
+.done {
+	color: gray;
+	text-decoration: black line-through;
+}
